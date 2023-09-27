@@ -1,0 +1,25 @@
+{
+	"body": [
+		[{
+				"inscriptionId": "d404edce907cabd617c8067a0d4e2aee2d7d37301adc2faafb1fb58fba676794i0",
+				"name": "unleash doginals NFT #1",
+				"imageURI": "https://ibb.co/0JnvbYL",
+				"collectionSymbol": "unleash doginals",
+				"metadata": {
+					"attribute 1": "unleash",
+					"attribute 2": "doginals"
+				}
+			},
+			{
+				"inscriptionId": "1ce8147c0616fc597542a4b417fbaae33424bdc10273fe10287b9820b3eccb17i0",
+				"name": "unleash doginals NFT #2",
+				"imageURI": "https://ibb.co/0JnvbYL",
+				"collectionSymbol": "unleash doginals",
+				"metadata": {
+					"attribute 1": "unleash",
+					"attribute 2": "doginals"
+				}
+			}
+		]
+	]
+}
